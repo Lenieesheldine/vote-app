@@ -1,0 +1,29 @@
+h1{
+    margin-left: 200px;
+    color: rgb(209, 82, 124);
+    margin-top: 30px;
+}
+
+#submit{
+    margin-left: 200px;
+    background-color: palevioletred;
+    border-radius: 40px;
+    height: 30px;
+}
+#text{
+    margin-left: 150px;
+    margin-top: 40;
+    border-radius: 50px ;
+    height: 30px
+}
+.style{
+    background-color:rgb(126, 24, 139);
+    margin-top: 100px;
+    width: 500px;
+    margin-left: 50px;
+    height: 400px;
+
+}
+
+
+    
